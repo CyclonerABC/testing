@@ -11,6 +11,7 @@ public class ClassA {
     public static void printMessage() {
         
 		System.out.println("Hello from Class A!");        
+                System.out.println("1.1"); 
 
     }
     
